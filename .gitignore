@@ -1,0 +1,8 @@
+MSSQLTest/bin/
+MSSQLTest/obj/
+MySqlTest/bin/
+MySqlTest/obj/
+OracleTest/bin/
+OracleTest/obj/
+SqliteTest/bin/
+SqliteTest/obj/
